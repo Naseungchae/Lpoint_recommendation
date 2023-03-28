@@ -1,3 +1,16 @@
+#팀원
+
+<table>
+  <tbody>
+    <tr>
+      ![김선구](https://github.com/ksun0401)
+      ![이현도](https://github.com/onsemiro11)
+      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : </b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : </b></sub></a><br /></td>
+     <tr/>
+  </tbody>
+</table>
+
 # Matrix Factorization을 활용한 상품 추천 시스템
 
 ## EDA & SGD Matrix Factorization

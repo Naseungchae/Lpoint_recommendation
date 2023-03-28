@@ -2,8 +2,8 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/ksun0401"><img src="https://avatars.githubusercontent.com/u/70461025?v=4" width="100px;" alt="teammember1"/><br /><sub><b>김선구</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/onsemiro11"><img src="https://avatars.githubusercontent.com/u/49609175?v=4" width="100px;" alt="teammember2"/><br /><sub><b>이현도</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/ksun0401"><img src="https://avatars.githubusercontent.com/u/70461025?v=4" width="300px;" alt="teammember1"/><br /><sub><b>김선구</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/onsemiro11"><img src="https://avatars.githubusercontent.com/u/49609175?v=4" width="300px;" alt="teammember2"/><br /><sub><b>이현도</b></sub></a><br /></td>
   </tr>
 <table>
   
